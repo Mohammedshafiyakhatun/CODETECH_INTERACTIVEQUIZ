@@ -29,12 +29,7 @@
       <h2>Your Score: <span id="score"></span></h2>
       <button id="restartBtn">Restart Quiz</button>
     </div>
-    <div id="certificate">
-      <h2>Certificate of Completion</h2>
-      <p>Congratulations! You have completed the quiz successfully.</p>
-      <p><strong>Issued by CODTECH on your internship end date.</strong></p>
-    </div>
-  </div>
+    
   <script>
     const quizData = [
       {
